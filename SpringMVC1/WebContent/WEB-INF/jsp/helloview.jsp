@@ -7,6 +7,6 @@
 <title>Hello</title>
 </head>
 <body>
-	Hello ${member}${member}${member}
+	Hello ${member}
 </body>
 </html>
